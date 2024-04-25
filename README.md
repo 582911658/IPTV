@@ -19,6 +19,7 @@
 | 链接  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
 | 📺地址  | [https://mirror.ghproxy.com/https://raw.githubusercontent.com/582911658/iptv/mian/ipv6.m3u](https://mirror.ghproxy.com/https://raw.githubusercontent.com/582911658/iptv/mian/ipv6.m3u) | 2024.4.25    |
+| 📺地址  | [https://mirror.ghproxy.com/https://raw.githubusercontent.com/582911658/iptv/mian/ipv4.m3u](https://mirror.ghproxy.com/https://raw.githubusercontent.com/582911658/iptv/mian/ipv4.m3u) | 2024.4.26    |
 
 ## 🛠️工具
 - 📆**EPG接口地址**：
