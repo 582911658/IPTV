@@ -23,7 +23,7 @@
 
 ## 🛠️工具
 - 📆**EPG接口地址**：
-  -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
+  -  [https://live.fanmingming.cn/e.xml](https://live.fanmingming.cn/e.xml)
 
 ## 📖说明
 - 项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。
